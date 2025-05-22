@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tell-Me-Your-Love-Way
 - 👀 I’m interested in Learn New Tecs
-- 🌱 I’m currently learning Java in Spring and Web Development in Angular
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Golang and Unix Services
+- 💞️ I’m looking to collaborate on Opensource Solutions for resolving manual IT labor
 - 📫 How to reach me ...
 - ⚡ Fun fact: We will have WWIII before GTA VI
 
